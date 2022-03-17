@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Maaz</h1>
-<h3 align="center">I’m currently a Computer Science student at Usman University. I am extremely passionate about programming and designing as a whole. I essentially work on the backend because I enjoy solving complex problems that require critical thinking skills and logic. Though, I am flexible and have also worked on the frontend as well! The technologies that I’m comfortable in are PHP, Python, JavaScript , Html, CSS and Bootstrap.</h3>
+<h3 align="center">A passionate Computer Science student from Pakisatn</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadmaazfaisal&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadmaazfaisal" /> </p>
 
@@ -25,7 +25,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/dev.muhammadmaazfaisal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dev.muhammadmaazfaisal" height="30" width="40" /></a>
 <a href="https://twitter.com/maazsheikh37" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="maazsheikh37" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/muhammad maaz faisal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad maaz faisal" height="30" width="40" /></a>
 <a href="https://fb.com/maaz sheikh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="maaz sheikh" height="30" width="40" /></a>
