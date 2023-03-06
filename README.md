@@ -3,19 +3,14 @@
 
 <p align="left"> <a href="https://twitter.com/maazsheikh37" target="blank"><img src="https://img.shields.io/twitter/follow/maazsheikh37?logo=twitter&style=for-the-badge" alt="maazsheikh37" /></a> </p>
 
-- 🔭 I’m currently working on [Expense Tracker](https://github.com/MuhammadMaazFaisal/Expense-Tracker)
+- 🔭 I’m currently working on [Gold Management System](https://github.com/MuhammadMaazFaisal/Gold-Management-System)
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Laravel & Vue**
 
-- 👨‍💻 All of my projects are available at [https://muhammadmaazfaisal.github.io/Portfolio/](https://muhammadmaazfaisal.github.io/Portfolio/)
-
-- 📝 I regularly write articles on [https://muhammadmaazfaisal.github.io/Portfolio/](https://muhammadmaazfaisal.github.io/Portfolio/)
-
-- 💬 Ask me about **PHP, Python, React, HTML, CSS, JavaScript and Bootstrap**
+- 💬 Ask me about **PHP, Laravel, Python, HTML, CSS, JavaScript and Bootstrap**
 
 - 📫 How to reach me **m.maazfaisal0301@gmail.com**
 
-- 📄 Know about my experiences [https://muhammadmaazfaisal.github.io/Portfolio/](https://muhammadmaazfaisal.github.io/Portfolio/)
 
 - ⚡ Fun fact **I think I'm into Wrestling 😁**
 
