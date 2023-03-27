@@ -125,7 +125,7 @@ Windows                  All The Time        ███████████�
   <p align="center">
     Show ❤️ by starring repositories you find good! 
     <br />
-    ⭐️ From [Anushka Verma](https://github.com/MuhammadMaazFaisal)
+    ⭐️ From [Muhammad Maaz](https://github.com/MuhammadMaazFaisal)
     <br />
     Also, star and fork this repository if you wish to give this new feature a try!
   </p>
