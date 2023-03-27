@@ -67,8 +67,8 @@ Windows                  All The Time        ███████████�
 
 **Currently I am working ...**
 
-- <div>
-    <img width="250" height="100" align='left' src="esolace.png" >
+- <div style="margin-top:5px">
+    <img width="250" height="80" align='left' src="esolace.png" >
     ... as a <strong>PHP & Laravel Developer</strong> at Esolace Tech. where I have been assisting in the (design and) development of the various management systems and complex sites.
     <br />
     <strong>View: </strong> <a href="https://www.esolacetech.com" >Esolace Tech</a> 
@@ -77,7 +77,7 @@ Windows                  All The Time        ███████████�
   </div>
 
 - <div>
-     <img width="250" height="100" align='right' src="Upwork.png" >
+     <img width="250" height="80" align='right' src="Upwork.png" >
      ... as a <strong>Freelancer</strong> at upwork, I'm currently making big bucks! Yep, you heard that right - I'm living the dream of working from home, in my pajamas, and raking in the cash like a boss.
      <br />
      <strong>View: </strong> <a href="https://www.upwork.com/freelancers/~01c0ef7c29f3bb8ac0" >Upwork</a> 
