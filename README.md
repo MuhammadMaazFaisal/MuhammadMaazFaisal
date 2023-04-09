@@ -48,7 +48,7 @@ const maaz = {
 📊 **This week I spent my time on** 
 
 ```text
-⌚︎ Timezone: Asia/Calcutta
+⌚︎ Timezone: Asia/Karachi
 
 💬 Languages: 
 JavaScript               5 hrs 36 mins       ███████░░░░░░░░░░░░░░░░░░   29.7% 
