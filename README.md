@@ -66,10 +66,17 @@ Windows                  All The Time        ███████████�
 ---
 
 **Currently I am working ...**
+- <div>
+     <img width="250" height="80" align='right' src="82solutions.jpg" >
+     ... as a <strong>Jr. PHP Developer</strong> at 82 solutions, where I'm responsible for developing complex Laravel Applications and RESTful APIs.
+     <br />
+     <strong>View: </strong> <a href="https://www.upwork.com/freelancers/~01c0ef7c29f3bb8ac0" >Upwork</a> 
+     <br /> 
+   </div>
 
 - <div style="margin-top:5px">
     <img width="250" height="80" align='left' src="esolace.png" >
-    ... as a <strong>PHP & Laravel Developer</strong> at Esolace Tech. where I have been assisting in the (design and) development of the various management systems and complex sites.
+    I also worked as a <strong>PHP & Laravel Developer</strong> at Esolace Tech, where I have been assisting in the (design and) development of the various management systems and complex sites.
     <br />
     <strong>View: </strong> <a href="https://www.esolacetech.com" >Esolace Tech</a> 
     <br /> 
