@@ -67,10 +67,10 @@ Windows                  All The Time        ███████████�
 
 **Currently I am working ...**
 - <div>
-     <img width="250" height="80" align='right' src="82solutions.jpg" >
-     ... as a <strong>Jr. PHP Developer</strong> at 82 solutions, where I'm responsible for developing complex Laravel Applications and RESTful APIs.
+     <img width="120" height="80" align='right' src="82solutions.jpg" >
+     ... as a <strong>Jr. PHP Developer</strong> at 82 Solutions, where I'm responsible for developing complex Laravel Applications and RESTful APIs.
      <br />
-     <strong>View: </strong> <a href="https://www.upwork.com/freelancers/~01c0ef7c29f3bb8ac0" >Upwork</a> 
+     <strong>View: </strong> <a href="https://82solutions.com/" >82 Solutions</a> 
      <br /> 
    </div>
 
