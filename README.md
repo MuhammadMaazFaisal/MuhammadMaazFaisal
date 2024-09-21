@@ -22,11 +22,8 @@ const maaz = {
         backEnd: {
             php: ["Laravel"]
         },
-        devOps: ["AWS", "Docker🐳", "Route53", "Nginx"],
         databases: ["mongo", "MySql", "sqlite"],
-        misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "php", "SuiteApp"]
     },
-    architecture: [ "Progressive web applications", "Single page applications"],
     currentProject: "I am working on life!",
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
