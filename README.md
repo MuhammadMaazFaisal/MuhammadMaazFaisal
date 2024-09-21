@@ -16,8 +16,8 @@ const maaz = {
     askMeAbout: ["web dev", "tech", "app dev", "entrepreneurship"],
     technologies: {
         frontEnd: {
-            js: ["Vue", "JQuery"],
-            css: ["materialize", "tailwind", "bootstrap"]
+            js: ["React", "JQuery"],
+            css: ["tailwind", "bootstrap"]
         },
         backEnd: {
             php: ["Laravel"]
@@ -32,66 +32,16 @@ const maaz = {
 };
 ```
 
+**Github Stats:**
+
+<p align="center">
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=muhammadmaazfaisal&hide=stars&show_icons=true&theme=dracula&line_height=32">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadmaazfaisal&count_private=true&theme=dracula">
+
+</p>
+
 ---
-<!--START_SECTION:waka-->
-**I'm an early 🐤** 
-
-```text
-🌞 Morning    106 commits    ███████░░░░░░░░░░░░░░░░░░   31.09% 
-🌆 Daytime    82 commits     ██████░░░░░░░░░░░░░░░░░░░   24.05% 
-🌃 Evening    119 commits    ████████░░░░░░░░░░░░░░░░░   34.9% 
-🌙 Night      34 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.97%
-
-```
-
-
-📊 **This week I spent my time on** 
-
-```text
-⌚︎ Timezone: Asia/Karachi
-
-💬 Languages: 
-JavaScript               5 hrs 36 mins       ███████░░░░░░░░░░░░░░░░░░   29.7% 
-PHP                      5 hrs 13 mins       ███████░░░░░░░░░░░░░░░░░░   27.69% 
-Python                   2 hrs 28 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.12% 
-
-🔥 Editors: 
-Visual Studio            8 hrs 35 mins       ██████████████████████░░░   82.34% 
-PyCharm                  2 hrs 28 mins       ███░░░░░░░░░░░░░░░░░░░░░░   18.56%
-
-💻 Operating Systems: 
-Windows                  All The Time        █████████████████████████   100.0%
-
-```
----
-
-**Currently I am working ...**
-- <div>
-     <img width="80" height="80" align='right' src="82solutions.jpg" >
-     ... as a <strong>Jr. PHP Developer</strong> at 82 Solutions, where I'm responsible for developing complex Laravel Applications and RESTful APIs.
-     <br />
-     <strong>View: </strong> <a href="https://82solutions.com/" >82 Solutions</a> 
-     <br /> 
-   </div>
-
-- <div style="margin-top:5px">
-    <img width="250" height="80" align='left' src="esolace.png" >
-    I also worked as a <strong>PHP & Laravel Developer</strong> at Esolace Tech, where I have been assisting in the (design and) development of the various management systems and complex sites.
-    <br />
-    <strong>View: </strong> <a href="https://www.esolacetech.com" >Esolace Tech</a> 
-    <br /> 
-    <br /> 
-  </div>
-
-- <div>
-     <img width="250" height="80" align='right' src="Upwork.png" >
-     ... as a <strong>Freelancer</strong> at upwork, I'm currently making big bucks! Yep, you heard that right - I'm living the dream of working from home, in my pajamas, and raking in the cash like a boss.
-     <br />
-     <strong>View: </strong> <a href="https://www.upwork.com/freelancers/~01c0ef7c29f3bb8ac0" >Upwork</a> 
-     <br /> 
-   </div>
-
-  ***
 
 **Languages and Tools:**
 
@@ -106,24 +56,12 @@ Windows                  All The Time        ███████████�
 
 ---
 
-
-**Github Stats:**
-
-<p align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=muhammadmaazfaisal&hide=stars&show_icons=true&theme=dracula&line_height=32">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadmaazfaisal&count_private=true&theme=dracula">
-
-</p>
-
----
-
 <p align="center">
   <i>Let's connect and chat! Find me on the web...</i>
   
 <!--    [![Website Badge](https://img.shields.io/badge/-anushkaverma.com-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://verma-anushka.github.io/anushkaverma/)](https://verma-anushka.github.io/anushkaverma/)  -->
    [![Twitter Badge](https://img.shields.io/badge/-@MaazSheikh37-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/MaazSheikh37)](https://twitter.com/MaazSheikh37)
-   [![Linkedin Badge](https://img.shields.io/badge/-muhammadmaaz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/muhammad-maaz-faisal-226a831b0//)](https://www.linkedin.com/in/muhammad-maaz-faisal-226a831b0/) 
+   [![Linkedin Badge](https://img.shields.io/badge/-muhammadmaaz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/muhammad-maaz-faisal//)](https://www.linkedin.com/in/muhammad-maaz-faisal-226a831b0/) 
   [![Medium Badge](https://img.shields.io/badge/-@m.maazfaisal0301-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@m.maazfaisal0301)](https://medium.com/@m.maazfaisal0301) 
    [![Gmail Badge](https://img.shields.io/badge/-m.maazfaisal0301-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:m.maazfaisal0301@gmail.com)](mailto:m.maazfaisal0301@gmail.com)
 <!--   [![Facebook Badge](https://img.shields.io/badge/-verma_anushka-036be4?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100022118525351)](https://www.facebook.com/profile.php?id=100022118525351) -->
