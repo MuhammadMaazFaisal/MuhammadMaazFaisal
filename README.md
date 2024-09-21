@@ -1,11 +1,11 @@
 <h2>Howdy-do! 😚, I'm Muhammad Maaz!</h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-<p>I'm a proud student of Computer Science at UIT. I'm a full-stack developer, which basically means I can code my way through anything - frontend, backend, you name it! I'm also a bit of a design enthusiast, so I love making things look pretty too.
+<p>I'm a proud student of Computer Science at UIT. I'm a full-stack developer, that means I can handle both the parts you see on a website and the behind-the-scenes magic. I've wrapped up more than 30+ projects, from small to big ones, on platforms where freelancers connect, and in my local community. I'm like a digital problem solver, making sure websites work like a charm and look good doing it.
 
 Programming is not just a hobby for me, it's a passion. I mean, who doesn't love solving complex problems with elegant solutions? It's like being a detective, but instead of solving crimes, you're solving programming puzzles! And when you finally crack the code, it's like hitting the jackpot!
 
-Anyway, enough about my coding obsession.</p>
+Welcome to my digital world! Let's roll on this journey together, discover the tech wonderland, and create some cool stuff along the way 🚀✨.</p>
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
